@@ -1,0 +1,12 @@
+*/target/*
+*.ipr
+*/target
+target/*
+*.iws
+logs/
+projectFilesBackup/
+.idea/
+*.iml
+*.class
+*.DS_Store
+policy-thrift/idl/gen-javabean
